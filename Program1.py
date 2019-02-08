@@ -226,7 +226,7 @@ def genertioninfo(generation):
 
 
 try:
-    genertioninfo(50)
+    genertioninfo(60)
 except IndexError:
     print("\n...Generation doesn't exist")
 
