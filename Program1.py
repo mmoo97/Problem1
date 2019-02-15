@@ -15,6 +15,8 @@ class Person:
         self.spouse = spouse
         self.children = children
         self.hasSpouse = hasSpouse
+        print ("whats up")
+        
 
 
 people = []
