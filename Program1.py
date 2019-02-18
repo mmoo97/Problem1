@@ -187,11 +187,6 @@ def isboy():
         return False
 
 
-def death():
-
-    people.remove(people[0])
-
-
 def main():
 
     gen1()
